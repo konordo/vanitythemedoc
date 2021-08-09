@@ -1,6 +1,6 @@
 <!-- TODO: Update with your values. -->
-# DocsifyJS Template
-> Starter template for a markdown-based docs site
+# Vanity Theme Documentation
+> Documentation for Vanity, a Multipurpose, Arrogant Shopify theme.
 
  <!-- TODO: Update repo links and change license type if needed. -->
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/)
