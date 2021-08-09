@@ -37,16 +37,6 @@ Then follow instructions in the original GitHub repo's `README.md` file to setup
 </div>
 
 
-## Preview
+## Footer
 
-_TODO: Complete with your content - such as a screenshot of your app or command-line usage. You can also rename Preview to Sample._
-
-
-## Installation
-
-_TODO: Add your instructions here or link to an installation.md page._
-
-
-## Theme colros
-
-Comes with two primary colors.
+_TODO:Write footer documentation._
