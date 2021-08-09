@@ -25,9 +25,7 @@ How to find these settings...
 Online Store > Customize (Theme Editor) > Sections > Header
 
 <div align="center">
-    <a href="https://github.com/MichaelCurrin/docsify-js-template/generate">
-        <img src="https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge" alt="Use this template">
-    </a>
+    <img src="images/header_settings.png" alt="Header settings">
 </div>
 
 Then follow instructions in the original GitHub repo's `README.md` file to setup your own docs site like this one.
