@@ -25,7 +25,7 @@ How to find these settings...
 Online Store > Customize (Theme Editor) > Sections > Header
 
 <div align="center">
-    <img src="images/header_settings.png" alt="Header settings">
+    ![image info](./images/header_settings.png)
 </div>
 
 Then follow instructions in the original GitHub repo's `README.md` file to setup your own docs site like this one.
