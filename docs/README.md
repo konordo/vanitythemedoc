@@ -26,15 +26,18 @@ Online Store > Customize (Theme Editor) > Sections > Header
 
 ![image info](images/header_settings.png)
 
-## Announcement Bar
+### Announcement Bar
 
 A highlighted message can be displayed at the very top of the page. The following options are available: 
-* *Show Announcement* This checkbox will turn the Announcement Bar on or off.
-* *Show on Homepage Only* If this checkbox is on the Announcement Bar will show in the frontpage only
-* *Announcement Text* The text in this textarea will show up in the Announcement Bar
-* *Announcement Link* The Announcement Bar text will link to the selected item
+* *Show Announcement* 
+This checkbox will turn the Announcement Bar on or off.
+* *Show on Homepage Only* 
+If this checkbox is on the Announcement Bar will show in the frontpage only
+* *Announcement Text* 
+The text in this textarea will show up in the Announcement Bar
+* *Announcement Link* 
+The Announcement Bar text will link to the selected item
 
-![image info](images/header_settings.png)
 
 ## Footer
 
