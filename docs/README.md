@@ -1,17 +1,15 @@
 # Vanity Theme
-> Documentation for Vanity, a Multipurpose, Arrogant Shopify theme.
+> Documentation for Vanity, a Minimal, Multipurpose Shopify theme for Luxury products.
 
 ## About
 
-This is a template for a simple but elegant docs site built on _Docsify_ which magically turns your markdown in your `docs` directory into a docs site. 
+_Vanity_ is a minimal, clean multipurpose shopify theme best suited for luxury products.
 
-This is a statically-built site - just commit and push and your Github Pages site will re-deploy.
+It is packed with high-demand features like Ajax Cart, Dynamic Filters, Product image slideshow that focuses on the variation images, elegan information boxes, Ajax product pages and other. Whether your shop if focused on Jewelry, Perfumes, Watches, Sunglasses - or simlpy need a clean and elegant look for your items, Vanity is the theme for you!
 
-_Docsify.js_ runs as a _Single-Page Application_ on `index.html` - it relies on JavaScript to pull in content from markdown file, within the app shell. This gives a modern progressive web-app experience for instant page loads. But, this **not** SEO-friendly as crawlers don't like to or can't load JavaScript. So use a static site instead if you need to be found on search engines.
+Demo is available here:
 
-If you want learn about _Docsify_ and how to customize a docs like this, follow this tutorial:
-
-[![teach me - DocsifyJS tutorial](https://img.shields.io/badge/teach_me-DocsifyJS_tutorial-2ea44f)](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
+[![Vanity Theme Demo]](https://vanitytheme.myshopify.com/)
 
 
 ## Create a Docsify site
