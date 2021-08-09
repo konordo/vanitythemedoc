@@ -9,13 +9,20 @@ It is packed with high-demand features like Ajax Cart, Dynamic Filters, Product 
 
 Demo is available here:
 
-[![Vanity Theme Demo]](https://vanitytheme.myshopify.com/)
+[Vanity Theme Live Demo](https://vanitytheme.myshopify.com)
 
 
-## Create a Docsify site
-> How to create your own docs site like this one
+## Start Customizing Vanity
 
-Click the button below to create your own copy of this repo.
+Since you are using Shopify platform, most of the customization basics has been covered in the Shopify Official Documents here 
+[Shopify Customizing Theme Official Documentation.](https://help.shopify.com/en/manual/online-store/themes/os/customize)
+
+As a result, this User Guide will only contain Vanity’s theme customizations and settings.
+
+## Header
+
+How to find these settings...
+Online Store > Customize (Theme Editor) > Sections > Header
 
 <div align="center">
     <a href="https://github.com/MichaelCurrin/docsify-js-template/generate">
