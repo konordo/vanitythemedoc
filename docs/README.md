@@ -24,6 +24,12 @@ As a result, this User Guide will only contain Vanity’s theme customizations a
 How to find these settings...
 Online Store > Customize (Theme Editor) > Sections > Header
 
+![image info](images/header_settings.png)
+[image](./images/header_settings.png)
+[image](.,/images/header_settings.png)
+![image](./images/header_settings.png)
+![image](.,/images/header_settings.png)
+
 <div align="center">
     ![image info](images/header_settings.png)
 </div>
