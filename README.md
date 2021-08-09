@@ -1,5 +1,5 @@
-# DocsifyJS Template 📒 🕸
-> Starter template for a markdown-based docs site
+# Vanity Theme Documentation
+> Documentation for the Vanity Theme, a Multipurpose, Arrogant Shopify theme
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template)](https://github.com/MichaelCurrin/docsify-js-template/tags/?include_prereleases&sort=semver)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
@@ -11,7 +11,7 @@
 ## Preview
 
 <div align="center">
-    <a href="https://michaelcurrin.github.io/docsify-js-template/">
+    <a href="https://vanitytheme.myshopify.com/">
         <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="400" />
     </a>
 </div>

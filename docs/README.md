@@ -54,6 +54,6 @@ _TODO: Complete with your content - such as a screenshot of your app or command-
 _TODO: Add your instructions here or link to an installation.md page._
 
 
-## Usage
+## Theme colros
 
-_TODO: Add your instructions here or link to a usage.md page._
+Comes with two primary colors.
