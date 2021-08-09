@@ -25,21 +25,9 @@ How to find these settings...
 Online Store > Customize (Theme Editor) > Sections > Header
 
 ![image info](images/header_settings.png)
-[image](./images/header_settings.png)
-[image](.,/images/header_settings.png)
-![image](./images/header_settings.png)
-![image](.,/images/header_settings.png)
 
 <div align="center">
     ![image info](images/header_settings.png)
-</div>
-
-Then follow instructions in the original GitHub repo's `README.md` file to setup your own docs site like this one.
-
-<div align="center">
-    <a href="https://github.com/MichaelCurrin/docsify-js-template">
-        <img src="https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-template&color=blue&style=for-the-badge&logo=github" alt="MichaelCurrin - docsify-js-template">
-    </a>
 </div>
 
 
