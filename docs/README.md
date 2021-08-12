@@ -1,8 +1,6 @@
 # Vanity Theme
 > Documentation for Vanity, a Minimal, Multipurpose Shopify theme for Luxury products.
 
-/// - parameter llamaCount: The number of llamas in the managed herd.
-
 ## About
 
 _Vanity_ is an elegant, clean and minimal shopify theme best suited for luxury products. It is ideal for creating stores that sell jewelry, glasses, watches, perfumes, gifts, clothing or any other item that needs a clean and elegant look. It is packed with high-demand features like Ajax Cart, Dynamic Filters in the collection pages, Product image slideshow that focuses on the variation image on change, elegant call to action boxes, Ajax product pages, Ajax Wishlist and other.
@@ -47,23 +45,23 @@ Vanity Theme is highly customizable. The following configurations are available 
 
 There are three main options available in order to customize Vanity to your own brand colors:
 
-*Accent*
+__Accent__
 Accent is the main colour used throughout the theme. Accent color will be used in the headers, buttons and other elements of Vanity.
 
-*Text*
+__Text__
 Text color will change the color of all the texts in the theme.
 
-*Background*
+__Background__
 Background color will change the color of the background of the theme.
 
 #### Typography
 
 Two main options are available:
 
-* Headings
+__Headings__
 Heading will change the fonts of the headings, buttons and other elements of the theme.
 
-* Body text
+__Body text__
 Body text font family will change the font of all the texts in the theme.
 
 #### Social Media
@@ -75,19 +73,19 @@ If an image is uploaded in this setting, it will be shown when sharing a link on
 
 ##### Social sharing options
 
-* Enable sharing for blog articles
+__Enable sharing for blog articles__
 If this option is enabled, social media  icons will become avaiable in the articles. They can be used to share the blog post page in social media.
 
-* Share on Facebook
+__Share on Facebook__
 Enables the share on Facebook icon.
 
-* Tweet on Twitter
+__Tweet on Twitter__
 Enables the share on Twitter icon.
 
-* Pin on Pinterest
+__Pin on Pinterest__
 Enables the share on Pinterest icon.
 
-* Color
+__Color__
 The social media icon color.
 
 ##### Sharing links
@@ -95,7 +93,7 @@ The social media icon color.
 The social media sharing links of your shop. Links of social media channels of the shop can be included here. 
 
 #### Cart
-* Enable cart notes
+__Enable cart notes__
 This option enables a textarea in the cart page where the clients can leave notes for their order.
 
 ## Header
@@ -111,10 +109,13 @@ A highlighted message can be displayed at the very top of the page. The followin
 
 #### Show Announcement 
   This checkbox will turn the Announcement Bar on or off.
+  
 #### Show on Homepage Only
   If this checkbox is on the Announcement Bar will show in the frontpage only
+
 #### Announcement Text 
   The text in this textarea will show up in the Announcement Bar
+
 #### Announcement Link 
   The Announcement Bar text will link to the selected item
 
