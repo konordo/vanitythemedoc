@@ -36,12 +36,12 @@ Since you are using Shopify platform, most of the customization basics has been 
 
 As a result, this User Guide will only contain Vanity’s theme customizations and settings.
 
-## Theme settings
+# Theme settings
 > Online Store > Customize (Theme Editor) > Theme settings
  
 Vanity Theme is highly customizable. The following configurations are available in the Theme settings that will let you customize the the main elements of the theme.
 
-#### Colors
+## Colors
 
 There are three main options available in order to customize Vanity to your own brand colors:
 
@@ -54,7 +54,7 @@ Text color will change the color of all the texts in the theme.
 __Background__
 Background color will change the color of the background of the theme.
 
-#### Typography
+## Typography
 
 Two main options are available:
 
@@ -64,14 +64,14 @@ Heading will change the fonts of the headings, buttons and other elements of the
 __Body text__  
 Body text font family will change the font of all the texts in the theme.
 
-#### Social Media
+## Social Media
 These options let you configure your social media channels.
 
-##### Social sharing image
+### Social sharing image
 
 If an image is uploaded in this setting, it will be shown when sharing a link on social media.
 
-##### Social sharing options
+### Social sharing options
 
 __Enable sharing for blog articles__  
 If this option is enabled, social media  icons will become avaiable in the articles. They can be used to share the blog post page in social media.
@@ -88,35 +88,35 @@ Enables the share on Pinterest icon.
 __Color__  
 The social media icon color.
 
-##### Sharing links
+### Sharing links
 
 The social media sharing links of your shop. Links of social media channels of the shop can be included here. 
 
-#### Cart
+## Cart
 __Enable cart notes__  
 This option enables a textarea in the cart page where the clients can leave notes for their order.
 
-## Header
+# Header
 
 > How to find these settings.. Online Store > Customize (Theme Editor) > Sections > Header
 
 ![image info](images/header_settings.png)
 
-### Announcement Bar
+## Announcement Bar
  - - -
  
 A highlighted message can be displayed at the very top of the page. The following options are available:
 
-#### Show Announcement 
+### Show Announcement 
   This checkbox will turn the Announcement Bar on or off.
   
-#### Show on Homepage Only
+### Show on Homepage Only
   If this checkbox is on the Announcement Bar will show in the frontpage only
 
-#### Announcement Text 
+### Announcement Text 
   The text in this textarea will show up in the Announcement Bar
 
-#### Announcement Link 
+### Announcement Link 
   The Announcement Bar text will link to the selected item
 
 ## Footer
