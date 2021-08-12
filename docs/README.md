@@ -98,7 +98,7 @@ This option enables a textarea in the cart page where the clients can leave note
 
 # Header
 
-> How to find these settings.. Online Store > Customize (Theme Editor) > Sections > Header
+> Online Store > Customize (Theme Editor) > Header
 
 ![image info](images/header_settings.png)
 
@@ -128,8 +128,55 @@ A highlighted message can be displayed at the very top of the page. The followin
 ## Main Menu  
   The main menu that shows in the header can be selected from this option.
 
-## Theme Settings
+# Footer  
+> Online Store > Customize (Theme Editor) > Footer
 
-_TODO:Write footer documentation._
+This areaFooter supports up to 4 blocks. The order of the blocks can be easily configured by dragging and dropping the sections up and down in the list.
+Vanity theme offers the following 3 sections:  
 
-The theme supports unlimited dynamic filters that can be created from the Shopify backend. 
+## Newsletter
+This section can show a block with customizable title and text, the Newsletter form, and social media icons.
+
+Available options are:
+
+### Heading
+The title of the block
+
+### Text
+An option text message that will show above the Newsletter form
+
+### Show social media icons
+If this checkbox is on, the social media icons will show below the Newsletter form.
+
+## Text Section
+This section can show a block with customizable title, an image, a textarea and the social media icons.
+
+Available options are:  
+
+### Image
+The selected image will show in the block area
+
+### Heading
+The title of the block
+
+### Text
+Text that will show after the image.
+
+### Show social media icons
+If this checkbox is on, the social media icons will show below the text.
+
+_Hint_: If the Text section is left empty, without any content, it can act as a separator between other footer sections. An empty text section will take up the space of a block, but nothing will show. 
+
+## Footer Menu
+
+This section will show a menu in the footer area. Configuration options are:
+
+### Heading
+The title of the block
+
+### Menu
+The selected menu will show in the footer
+
+### Show social media icons
+If this checkbox is on, the social media icons will show below the menu.
+
