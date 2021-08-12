@@ -36,17 +36,60 @@ Since you are using Shopify platform, most of the customization basics has been 
 
 As a result, this User Guide will only contain Vanity’s theme customizations and settings.
 
+## Theme settings
+> How to find these settings.. Online Store > Customize (Theme Editor) > Theme settings
+ 
+Vanity is highly customizable. The following configurations are available in the Theme settings that will let you customize the the main elements of the theme.
+
+#### Colors
+
+There are three main options available in order to customize Vanity to your own brand colors:
+
+*Accent*
+Accent is the main colour used throughout the theme. Accent color will be used in the headers, buttons and other elements of Vanity.
+*Text*
+Text color will change the color of all the texts in the theme.
+*Background*
+Background color will change the color of the background of the theme.
+
+#### Typography
+Two main options are available:
+* Headings
+Heading will change the fonts of the headings, buttons and other elements of the theme.
+* Body text
+Body text font family will change the font of all the texts in the theme.
+
+#### Social Media
+These options let you configure your social media channels.
+
+##### Social sharing image
+If an image is uploaded in this setting, it will be shown. when sharing a link on social media.
+
+##### Social sharing options
+
+Enable sharing for blog articles
+
+Share on Facebook
+
+Tweet on Twitter
+
+Pin on Pinterest
+
+#### Cart
+#### Favicon
+
+
 ## Header
 
-How to find these settings..
-
-Online Store > Customize (Theme Editor) > Sections > Header
+> How to find these settings.. Online Store > Customize (Theme Editor) > Sections > Header
 
 ![image info](images/header_settings.png)
 
 ### Announcement Bar
+ - - -
+ 
+A highlighted message can be displayed at the very top of the page. The following options are available:
 
-A highlighted message can be displayed at the very top of the page. The following options are available: 
 #### Show Announcement 
   This checkbox will turn the Announcement Bar on or off.
 #### Show on Homepage Only
