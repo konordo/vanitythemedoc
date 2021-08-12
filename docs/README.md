@@ -1,6 +1,8 @@
 # Vanity Theme
 > Documentation for Vanity, a Minimal, Multipurpose Shopify theme for Luxury products.
 
+/// - parameter llamaCount: The number of llamas in the managed herd.
+
 ## About
 
 _Vanity_ is an elegant, clean and minimal shopify theme best suited for luxury products. It is ideal for creating stores that sell jewelry, glasses, watches, perfumes, gifts, clothing or any other item that needs a clean and elegant look. It is packed with high-demand features like Ajax Cart, Dynamic Filters in the collection pages, Product image slideshow that focuses on the variation image on change, elegant call to action boxes, Ajax product pages, Ajax Wishlist and other.
