@@ -111,17 +111,22 @@ A highlighted message can be displayed at the very top of the page. The followin
   This checkbox will turn the Announcement Bar on or off.
   
 ### Show on Homepage Only
-  If this checkbox is on the Announcement Bar will show in the frontpage only
+  If this checkbox is on the Announcement Bar will show in the frontpage only.
 
 ### Announcement Text 
-  The text in this textarea will show up in the Announcement Bar
+  The text in this textarea will show up in the Announcement Bar.
 
 ### Announcement Link 
-  The Announcement Bar text will link to the selected item
+  The Announcement Bar text will link to the selected item.
 
-## Footer
-
-_TODO:Write footer documentation._
+## Logo image  
+  The logo of the store can be uploaded here.
+  
+## Logo width  
+  This option will change the width of the logo.
+  
+## Main Menu  
+  The main menu that shows in the header can be selected from this option.
 
 ## Theme Settings
 
