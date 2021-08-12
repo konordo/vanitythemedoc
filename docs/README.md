@@ -1,5 +1,5 @@
 # Vanity Theme
-> Documentation for Vanity, a Minimal, Multipurpose Shopify theme for Luxury products.
+> Documentation for Vanity, an elegant, clean and minimal Shopify theme for Luxury products.
 
 ## About
 
@@ -58,10 +58,10 @@ Background color will change the color of the background of the theme.
 
 Two main options are available:
 
-__Headings__
+__Headings__  
 Heading will change the fonts of the headings, buttons and other elements of the theme.
 
-__Body text__
+__Body text__  
 Body text font family will change the font of all the texts in the theme.
 
 #### Social Media
@@ -73,19 +73,19 @@ If an image is uploaded in this setting, it will be shown when sharing a link on
 
 ##### Social sharing options
 
-__Enable sharing for blog articles__
+__Enable sharing for blog articles__  
 If this option is enabled, social media  icons will become avaiable in the articles. They can be used to share the blog post page in social media.
 
-__Share on Facebook__
+__Share on Facebook__  
 Enables the share on Facebook icon.
 
-__Tweet on Twitter__
+__Tweet on Twitter__  
 Enables the share on Twitter icon.
 
-__Pin on Pinterest__
+__Pin on Pinterest__  
 Enables the share on Pinterest icon.
 
-__Color__
+__Color__  
 The social media icon color.
 
 ##### Sharing links
@@ -93,7 +93,7 @@ The social media icon color.
 The social media sharing links of your shop. Links of social media channels of the shop can be included here. 
 
 #### Cart
-__Enable cart notes__
+__Enable cart notes__  
 This option enables a textarea in the cart page where the clients can leave notes for their order.
 
 ## Header
