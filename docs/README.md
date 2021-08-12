@@ -37,9 +37,9 @@ Since you are using Shopify platform, most of the customization basics has been 
 As a result, this User Guide will only contain Vanity’s theme customizations and settings.
 
 ## Theme settings
-> How to find these settings.. Online Store > Customize (Theme Editor) > Theme settings
+> Online Store > Customize (Theme Editor) > Theme settings
  
-Vanity is highly customizable. The following configurations are available in the Theme settings that will let you customize the the main elements of the theme.
+Vanity Theme is highly customizable. The following configurations are available in the Theme settings that will let you customize the the main elements of the theme.
 
 #### Colors
 
@@ -47,15 +47,20 @@ There are three main options available in order to customize Vanity to your own 
 
 *Accent*
 Accent is the main colour used throughout the theme. Accent color will be used in the headers, buttons and other elements of Vanity.
+
 *Text*
 Text color will change the color of all the texts in the theme.
+
 *Background*
 Background color will change the color of the background of the theme.
 
 #### Typography
+
 Two main options are available:
+
 * Headings
 Heading will change the fonts of the headings, buttons and other elements of the theme.
+
 * Body text
 Body text font family will change the font of all the texts in the theme.
 
@@ -63,21 +68,33 @@ Body text font family will change the font of all the texts in the theme.
 These options let you configure your social media channels.
 
 ##### Social sharing image
-If an image is uploaded in this setting, it will be shown. when sharing a link on social media.
+
+If an image is uploaded in this setting, it will be shown when sharing a link on social media.
 
 ##### Social sharing options
 
-Enable sharing for blog articles
+* Enable sharing for blog articles
+If this option is enabled, social media  icons will become avaiable in the articles. They can be used to share the blog post page in social media.
 
-Share on Facebook
+* Share on Facebook
+Enables the share on Facebook icon.
 
-Tweet on Twitter
+* Tweet on Twitter
+Enables the share on Twitter icon.
 
-Pin on Pinterest
+* Pin on Pinterest
+Enables the share on Pinterest icon.
+
+* Color
+The social media icon color.
+
+##### Sharing links
+
+The social media sharing links of your shop. Links of social media channels of the shop can be included here. 
 
 #### Cart
-#### Favicon
-
+* Enable cart notes
+This option enables a textarea in the cart page where the clients can leave notes for their order.
 
 ## Header
 
