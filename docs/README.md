@@ -3,7 +3,26 @@
 
 ## About
 
-_Vanity_ is a minimal, clean multipurpose shopify theme best suited for luxury products.
+_Vanity_ is an elegant, clean and minimal shopify theme best suited for luxury products. It is ideal for creating stores that sell jewelry, glasses, perfumes, gifts, clothing or any other products you would like to display with a touch of luxury.
+
+/**
+It comes packed with additional features: 
+
+* Ajax cart 
+* Dynamic collection filters
+* Ajax Wishlist
+* Powerful and customizabel frontpage responsive image slider
+* Collection product slider
+* Blog posts summary
+* Call to Action blocks
+* Customizable Featured Product
+* Customizable Image with text
+* Customizable Footer
+ */
+
+
+
+We bring you wonderful technologies as Sass CSS, Owl Carousel, Front Awesome and Animation. Besides, we have included Responsive Slider, Product Carousel, Blog Carousel and Ajax Add to Cart functions.
 
 It is packed with high-demand features like Ajax Cart, Dynamic Filters, Product image slideshow that focuses on the variation images, elegan information boxes, Ajax product pages and other. Whether your shop if focused on Jewelry, Perfumes, Watches, Sunglasses - or simlpy need a clean and elegant look for your items, Vanity is the theme for you!
 
@@ -11,6 +30,7 @@ Demo is available here:
 
 [Vanity Theme Live Demo](https://vanitytheme.myshopify.com)
 
+Vanity comes with 
 
 ## Start Customizing Vanity
 
