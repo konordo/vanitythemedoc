@@ -3,28 +3,21 @@
 
 ## About
 
-_Vanity_ is an elegant, clean and minimal shopify theme best suited for luxury products. It is ideal for creating stores that sell jewelry, glasses, perfumes, gifts, clothing or any other products you would like to display with a touch of luxury.
+_Vanity_ is an elegant, clean and minimal shopify theme best suited for luxury products. It is ideal for creating stores that sell jewelry, glasses, watches, perfumes, gifts, clothing or any other item that needs a clean and elegant look. It is packed with high-demand features like Ajax Cart, Dynamic Filters in the collection pages, Product image slideshow that focuses on the variation image on change, elegant call to action boxes, Ajax product pages, Ajax Wishlist and other.
 
-/**
-It comes packed with additional features: 
+It comes packed with high-demand features like: 
 
 * Ajax cart 
-* Dynamic collection filters
+* Dynamic collection product filters
+* Supports dedicated slideshow image per product variation
 * Ajax Wishlist
-* Powerful and customizabel frontpage responsive image slider
+* Customizable responsive image slider
 * Collection product slider
 * Blog posts summary
 * Call to Action blocks
 * Customizable Featured Product
 * Customizable Image with text
 * Customizable Footer
- */
-
-
-
-We bring you wonderful technologies as Sass CSS, Owl Carousel, Front Awesome and Animation. Besides, we have included Responsive Slider, Product Carousel, Blog Carousel and Ajax Add to Cart functions.
-
-It is packed with high-demand features like Ajax Cart, Dynamic Filters, Product image slideshow that focuses on the variation images, elegan information boxes, Ajax product pages and other. Whether your shop if focused on Jewelry, Perfumes, Watches, Sunglasses - or simlpy need a clean and elegant look for your items, Vanity is the theme for you!
 
 Demo is available here:
 
@@ -66,3 +59,5 @@ _TODO:Write footer documentation._
 ## Theme Settings
 
 _TODO:Write footer documentation._
+
+The theme supports unlimited dynamic filters that can be created from the Shopify backend. 
