@@ -180,3 +180,15 @@ The selected menu will show in the footer
 ### Show social media icons
 If this checkbox is on, the social media icons will show below the menu.
 
+
+
+1. Go to Shopify Admin Panel -> Settings -> General
+2. Go to the Store currency section (last one)
+3. Click on Change formatting
+4. Update HTML with currency field with the below value
+HTML with currencyCOPY
+<span class=money>${{amount_no_decimals}} USD</span>
+5. Update HTML without currency field with the below value
+HTML without currencyCOPY
+<span class=money>${{amount_no_decimals}}</span>
+6. Click on Save button in the Shopify page
