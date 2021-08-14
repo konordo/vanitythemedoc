@@ -202,7 +202,7 @@ If this checkbox is on, the social media icons will show below the menu.
 
 Vanity can show dynamic filters in the collection pages. These option will filter products that match the selected filter options. New filters can be created by editing any product and inserting a new tag with the following format:
 
-> Filter Name__Filter Option
+> Filter Name\_\_Filter Option
  
  For example, the following tags will create a filter with the label Color and the options Small, Medium, Large
  
