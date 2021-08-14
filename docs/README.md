@@ -1,6 +1,6 @@
 ![image info](images/vanity-logo.jpg)
 # Vanity Theme
-> Documentation for Vanity, an elegant, clean and minimal Shopify theme for Luxury products.
+## Documentation for Vanity, an elegant, clean and minimal Shopify theme for Luxury products.
 
 ## About
 
@@ -21,7 +21,7 @@ It comes packed with high-demand features like:
 * Customizable Image with text
 * Customizable Footer
 
-*Reliable Support* 
+__Reliable Support__   
 Start building your professional online presence without touching a line of code. We are always here to help you. 
 This theme is backed with extensive documentation and regular updates.
 
