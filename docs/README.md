@@ -12,6 +12,7 @@ It comes packed with high-demand features like:
 * Dynamic collection product filters
 * Supports dedicated slideshow image per product variation
 * Ajax Wishlist
+* Multiple Currency Support
 * Customizable responsive image slider
 * Collection product slider
 * Blog posts summary
