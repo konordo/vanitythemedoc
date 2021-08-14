@@ -144,8 +144,7 @@ A highlighted message can be displayed at the very top of the page. The followin
 
 > Online Store > Customize (Theme Editor) > Footer
  
-![image info](images/footer_settings.png)
-
+![image info](images/theme_footersettings.png)
 
 Footer supports up to 4 blocks. The order of the blocks can be easily configured by dragging and dropping the sections up and down in the list.
 Vanity theme offers the following 3 sections:  
@@ -200,7 +199,7 @@ If this checkbox is on, the social media icons will show below the menu.
 
 # How to create Dynamic filters in the collection pages
 
-Vanity can show dynamic filters in the collection pages. These option will filter products that match the selected filter options. New filters can be created by editing any product and inserting a new tag with the following format:
+Vanity can show dynamic filters in the collection pages. These option will filter products that match the selected filter options. New filters can be created by editing any product and inserting a new tag with the following format: Filter Name, __TWO__ underscore characters, the Filter Option.
 
 > Filter Name\_\_Filter Option
  
