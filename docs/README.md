@@ -150,9 +150,7 @@ Vanity is rich with section blocks that you can easily drag and drop into the pa
 
 The following sections are available:
 
-## Slideshow
-
-## BLog Posts
+## Blog Posts
 
 ![align_left](images/sections_blog_posts.png)
 
@@ -175,7 +173,20 @@ If this checkbox is on the name of the author will be displayed in the article s
 ### Show Date
 If this checkbox is on the post date of the article will be displayed in the article summary.
 
+---
 ## Collection list
+
+![align_left](images/sections_collection_list_a.PNG)
+
+This section will show the shop's collections. Each collection will be displayed by its image and title.
+
+![align_left](images/sections_collection_list_c.PNG)
+More collections can be included in the section by the Add Collection option that becomes available, when clicking on the Collection list label.
+
+![align_left](images/sections_collection_list_b.PNG)
+
+For each block, the collection can be selected from the block options. The button Select Collection will display all the available collections that can be chosen for the block.
+
 ## Collection slider
 ## Featured collection
 ## Call to Action blocks
