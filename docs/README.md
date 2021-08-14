@@ -144,7 +144,7 @@ A highlighted message can be displayed at the very top of the page. The followin
 
 > Online Store > Customize (Theme Editor) > Footer
  
-![image info](images/theme_footersettings.png)
+![image info](images/theme_footer_settings.png)
 
 Footer supports up to 4 blocks. The order of the blocks can be easily configured by dragging and dropping the sections up and down in the list.
 Vanity theme offers the following 3 sections:  
