@@ -139,12 +139,36 @@ A highlighted message can be displayed at the very top of the page. The followin
   The main menu that shows in the header can be selected from this option.
   
    - - -
+   
+# Theme Sections
 
+> Online Store > Customize (Theme Editor) > Footer
+
+![align_left](images/theme_sections.png)
+
+Vanity is rich with section blocks that you can easily drag and drop into the page, to create a unique layout.
+
+The following sections are available:
+
+## Slideshow
+## Collection list
+## Collection slider
+## Featured collection
+## Call to Action blocks
+## Image with text
+## Slideshow
+## Featured Product
+## Newsletter
+## Announcement Banner
+## Rich Text
+
+   - - -
+   
 # Footer  
 
 > Online Store > Customize (Theme Editor) > Footer
  
-![image info](images/theme_footer_settings.png)
+![align_left](images/theme_footer_settings.png)
 
 Footer supports up to 4 blocks. The order of the blocks can be easily configured by dragging and dropping the sections up and down in the list.
 Vanity theme offers the following 3 sections:  
