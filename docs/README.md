@@ -187,3 +187,18 @@ The selected menu will show in the footer
 
 ### Show social media icons
 If this checkbox is on, the social media icons will show below the menu.
+
+ - - -
+
+# How to create Dynamic filters in the collection pages
+
+Vanity can show dynamic filters in the collection pages. These option will filter products that match the selected filter options. New filters can be created by editing any product and inserting a new tag with the following format:
+> <Filter Name>__<Filter Option>
+ 
+ For example, the following tags will create a filter with the label Color and the options Small, Medium, Large
+ 
+* Color__Small
+* Color__Medium
+* Color__Large
+ 
+There is no limit to the amount of filters that can be created. If a collection page shows products that have tags with this format, the filters will be created and displayed in the sidebar automatically.
