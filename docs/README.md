@@ -90,7 +90,6 @@ __Color__
 The social media icon color.
 
 ### Sharing links
-
 The social media sharing links of your shop. Links of social media channels of the shop can be included here. 
 
 ## Cart
@@ -102,6 +101,8 @@ This option enables a textarea in the cart page where the clients can leave note
 ### Enable Multiple Currency Select list
 If this checkbox is on, a select list of the enabled currencies will be displayed in the footer. Users can use this to change the currency of the shop. Multiple currencies need to be enabled for this to work. More information about how to setup multiple currencies can be found in [Shopify's documentation](https://help.shopify.com/en/manual/payments/shopify-payments/multi-currency/setup).
 
+ - - -
+
 # Header
 
 > Online Store > Customize (Theme Editor) > Header
@@ -109,7 +110,6 @@ If this checkbox is on, a select list of the enabled currencies will be displaye
 ![image info](images/header_settings.png)
 
 ## Announcement Bar
- - - -
  
 A highlighted message can be displayed at the very top of the page. The following options are available:
 
@@ -133,11 +133,13 @@ A highlighted message can be displayed at the very top of the page. The followin
   
 ## Main Menu  
   The main menu that shows in the header can be selected from this option.
+  
+   - - -
 
 # Footer  
 > Online Store > Customize (Theme Editor) > Footer
 
-This areaFooter supports up to 4 blocks. The order of the blocks can be easily configured by dragging and dropping the sections up and down in the list.
+Footer supports up to 4 blocks. The order of the blocks can be easily configured by dragging and dropping the sections up and down in the list.
 Vanity theme offers the following 3 sections:  
 
 ## Newsletter
