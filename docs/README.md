@@ -44,7 +44,7 @@ As a result, this User Guide will only contain Vanity’s theme customizations a
 Vanity Theme is highly customizable. The following configurations are available in the Theme settings that will let you customize the the main elements of the theme.
 
 ## Colors
-![image info](images/theme_settings_color.PNG){.align-left}
+![image info](images/theme_settings_color.PNG){:.align-left}
 There are three main options available in order to customize Vanity to your own brand colors:
 
 __Accent__
@@ -57,7 +57,7 @@ __Background__
 Background color will change the color of the background of the theme.
 
 ## Typography
-![image info](images/theme_settings_typography.png){.align-left}
+![image info](images/theme_settings_typography.png){:.align-left}
 Two main options are available:
 
 __Headings__  
@@ -67,7 +67,7 @@ __Body text__
 Body text font family will change the font of all the texts in the theme.
 
 ## Social Media
-![image info](images/theme_settings_sm.png){.align-left}
+![image info](images/theme_settings_sm.png){:.align-left}
 These options let you configure your social media channels.
 
 ### Social sharing image
@@ -95,12 +95,12 @@ The social media icon color.
 The social media sharing links of your shop. Links of social media channels of the shop can be included here. 
 
 ## Cart
-![image info](images/theme_settings_cart.PNG){.align-left}
+![image info](images/theme_settings_cart.PNG){:.align-left}
 __Enable cart notes__  
 This option enables a textarea in the cart page where the clients can leave notes for their order.
 
 ## Money options
-![image info](images/theme_settings_money.PNG){.align-left}
+![image info](images/theme_settings_money.PNG){:.align-left}
 
 ### Enable Multiple Currency Select list
 If this checkbox is on, a select list of the enabled currencies will be displayed in the footer. Users can use this to change the currency of the shop. Multiple currencies need to be enabled for this to work. More information about how to setup multiple currencies can be found in [Shopify's documentation](https://help.shopify.com/en/manual/payments/shopify-payments/multi-currency/setup).
