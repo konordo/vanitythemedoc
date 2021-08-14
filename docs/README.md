@@ -151,6 +151,30 @@ Vanity is rich with section blocks that you can easily drag and drop into the pa
 The following sections are available:
 
 ## Slideshow
+
+## BLog Posts
+
+![align_left](images/sections_blog_posts.png)
+
+This section will show a number of blog posts. Each blog post will show its title, image and sumamry.
+
+It can be customized with the following settings:
+
+### Heading
+The header title of the section area. 
+
+### Blog
+Articles of the selected blog will show in this section. 
+
+### Posts
+The number of articles that should show. They are presented 3 in a row.
+
+### Show Author
+If this checkbox is on the name of the author will be displayed in the article summary.
+
+### Show Date
+If this checkbox is on the post date of the article will be displayed in the article summary.
+
 ## Collection list
 ## Collection slider
 ## Featured collection
