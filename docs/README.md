@@ -1,6 +1,4 @@
 ![image info](images/vanity-logo.jpg)
-
-
 # Vanity Theme
 > Documentation for Vanity, an elegant, clean and minimal Shopify theme for Luxury products.
 
@@ -99,6 +97,11 @@ The social media sharing links of your shop. Links of social media channels of t
 __Enable cart notes__  
 This option enables a textarea in the cart page where the clients can leave notes for their order.
 
+## Money options
+
+### Enable Multiple Currency Select list
+If this checkbox is on, a select list of the enabled currencies will be displayed in the footer. Users can use this to change the currency of the shop. Multiple currencies need to be enabled for this to work. More information about how to setup multiple currencies can be found in [Shopify's documentation](https://help.shopify.com/en/manual/payments/shopify-payments/multi-currency/setup).
+
 # Header
 
 > Online Store > Customize (Theme Editor) > Header
@@ -182,16 +185,3 @@ The selected menu will show in the footer
 
 ### Show social media icons
 If this checkbox is on, the social media icons will show below the menu.
-
-
-
-1. Go to Shopify Admin Panel -> Settings -> General
-2. Go to the Store currency section (last one)
-3. Click on Change formatting
-4. Update HTML with currency field with the below value
-HTML with currencyCOPY
-<span class=money>${{amount_no_decimals}} USD</span>
-5. Update HTML without currency field with the below value
-HTML without currencyCOPY
-<span class=money>${{amount_no_decimals}}</span>
-6. Click on Save button in the Shopify page
