@@ -44,7 +44,7 @@ As a result, this User Guide will only contain Vanity’s theme customizations a
 Vanity Theme is highly customizable. The following configurations are available in the Theme settings that will let you customize the the main elements of the theme.
 
 ## Colors
-<div class="align-left">![image info](images/theme_settings_color.PNG)</div>
+![image info](images/theme_settings_color.PNG#alignleft)
 There are three main options available in order to customize Vanity to your own brand colors:
 
 __Accent__
