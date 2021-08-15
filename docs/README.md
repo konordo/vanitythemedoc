@@ -178,7 +178,7 @@ If this checkbox is on the post date of the article will be displayed in the art
 
 ![align_left](images/sections_collection_list_a.PNG)
 
-This section will show the shop's collections. Each collection will be displayed by its image and title.
+This section will show the shop's collections. Each collection will be shown with its image and title. Configuration options allow the selection of the Collections that will be shown.
 
 ![align_left](images/sections_collection_list_c.PNG)
 More collections can be included in the section by the Add Collection option that becomes available, when clicking on the Collection list label.
@@ -188,14 +188,81 @@ More collections can be included in the section by the Add Collection option tha
 For each block, the collection can be selected from the block options. The button Select Collection will display all the available collections that can be chosen for the block.
 
 ## Collection slider
-## Featured collection
+
+![align_left](images/collection_slider.PNG)
+
+This slideshow will show products of the selected collection. It can be customized with the following settings:
+
+### Title
+The header title of the section area.
+
+### Collection
+Products from the chosen collection will show in the slideshow.
+
+### Products per slide
+The number of products to show on each slide.
+
+### Show Product Vendors
+If this checkbox is on, the vendor of the product will show up as well.
+
 ## Call to Action blocks
+
+![align_left](images/cat_settings.png)
+
+This section will show up to three call to action blocks. Each block supports a title, a text and a call to action button. 
+
+### Heading
+The title of the CTA (Call to Action) Block
+
+### Text
+The HTML text that shows up in the block.
+
+### Button text
+The text shown in the button.
+
+### Button link
+The destination after the user clicks on the button
+
 ## Image with text
+
+![align_left](images/image_with_text_settings.PNG)
+
+This section will show an image and text. Image can show either on the left or the right side, depending on the configuration. 
+It can be customized with the following settings:
+
+### Image
+The image that will show in the section.
+
+### Image alignment
+Options are Right and Left. This will change the position of the image in the section.
+
+### Heading
+The title of the CTA (Call to Action) Block
+
+### Text
+The HTML text that shows up in the block.
+
+### Button text
+The text shown in the button.
+
+### Button link
+The destination after the user clicks on the button
+
 ## Slideshow
+![align_left](images/slideshow_1.PNG)
+![align_left](images/slideshow_2.PNG)
+
 ## Featured Product
+![align_left](images/featured_product.PNG)
+
 ## Newsletter
+![align_left](images/newsletter.PNG)
+
 ## Announcement Banner
+![align_left](images/announcement.PNG)
+
 ## Rich Text
+![align_left](images/rich_text.PNG)
 
    - - -
    
