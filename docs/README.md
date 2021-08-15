@@ -207,7 +207,7 @@ If this checkbox is on, the vendor of the product will show up as well.
 
 ## Call to Action blocks
 
-![align_left](images/cat_settings.png)
+![align_left](images/cta_settings.png)
 
 This section will show up to three call to action blocks. Each block supports a title, a text and a call to action button. 
 
@@ -250,7 +250,57 @@ The destination after the user clicks on the button
 
 ## Slideshow
 ![align_left](images/slideshow_1.PNG)
+
+This is the main slideshow of the website. It will show in the frontpage only and it supports a block of text that will show on top of the slideshow image. This block is rich in configuration options; It can show on the left, center or right of the slideshow, with or without a semi-transparent background. It supports intro text, header, text and a button with customizable label and it allows a change in the text alignment (left, center right) in the block. 
+The different configuration options of the text block make sure that it will show correctly on top of any image - dark or bright.  
+
+This section supports configurations for the whole slideshow and also per slide. The available configuration options of the slideshow are:
+
+### Enable autoplay
+If this option is on, the slides will start flipping automatically on page load.
+
+### Enable dots
+If this option is on, one dot per slide will show at the bottom of the slideshow. Each dot is clickable and acts as navigation; on click it will change the slide.
+
+### Enable arrows
+If this option is on, clickable navigation arrows will show at the right and left of each slide.
+
+### Change slides every
+If autoplay option is on, this setting will change the number of seconds between each slide change.
+
+
 ![align_left](images/slideshow_2.PNG)
+
+When a Slide in the item tree is clicked, a new set of options will show. This set of options is availabe for each slide, and it allows unique configurations per slide. 
+
+Available options are:
+
+### Add image to the slideshow
+The selected image will show in the slide.
+
+### Intro Text
+This text will show in smaller fonts right above the block title
+
+### Slider Title
+This text will show in bigger fonts as the block title.
+
+### Slider Text
+The text will show in smaller fonts right after the title.
+
+### Button title
+The label of the button.
+
+### Slide link
+The destination after the user clicks on the button
+
+### Show background
+If this option is on, a white semi-transparent background will show on the text block.
+
+### Text block position
+This option will change the block position on the slideshow. Avaialble options are left, center and right.
+
+### Text alignment
+This option will change the text alignment of the block. Avaialble options are left, center and right.
 
 ## Featured Product
 ![align_left](images/featured_product.PNG)
