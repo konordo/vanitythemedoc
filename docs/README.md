@@ -350,8 +350,27 @@ A smaller text that will show after the title and above the form.
 ## Announcement Banner
 ![align_left](images/announcement.PNG)
 
+This section will show a full width block with a background. It will show some text with an action button on the right. Available options are:
+
+### Link text
+The label of the button
+
+### Link
+The destination after the user clicks on the button
+
+### Text
+The text that will show in the block.
+
 ## Rich Text
 ![align_left](images/rich_text.PNG)
+
+This section will show a block of text with a title. Available options are:
+
+### Heading
+The title of the block
+
+### Text
+The HTMLK text that will show after the heading.
 
    - - -
    
