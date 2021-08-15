@@ -234,7 +234,7 @@ It can be customized with the following settings:
 The image that will show in the section.
 
 ### Image alignment
-Options are Right and Left. This will change the position of the image in the section.
+This will change the position of the image in the section. Options are Right and Left. 
 
 ### Heading
 The title of the CTA (Call to Action) Block
@@ -305,8 +305,47 @@ This option will change the text alignment of the block. Avaialble options are l
 ## Featured Product
 ![align_left](images/featured_product.PNG)
 
+This section will show a selected product. Avaialble options are:
+
+### Heading
+The title of the product
+
+### Product
+The selected product will show
+
+### Pull product description from product page
+If this option is on, the description from the product page will show.
+
+### Product description
+If the above option is off, the text from this option will show.
+
+### Enable autoplay
+If this option is on, the product slideshow will start automatically.
+
+### Enable dots
+If this option is on, one dot per slide will show at the bottom of the slideshow. Each dot is clickable and acts as navigation; on click it will change the slide.
+
+### Enable arrows
+If this option is on, clickable navigation arrows will show at the right and left of each slide.
+
+### Image alignment
+This will change the position of the slideshow in the section. Options are Right and Left. 
+
+### Change slides every
+If autoplay option is on, this setting will change the number of seconds between each slide change.
+
 ## Newsletter
 ![align_left](images/newsletter.PNG)
+
+This section will show a configurable form for signing up to the Newsletter.
+
+Available options are
+
+### Heading
+The title of the Newsletter section
+
+### Subheading
+A smaller text that will show after the title and above the form.
 
 ## Announcement Banner
 ![align_left](images/announcement.PNG)
