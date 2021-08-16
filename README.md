@@ -1,5 +1,5 @@
 # Vanity Theme Documentation
-> Documentation for the Vanity Theme, a Multipurpose, Arrogant Shopify theme
+## Documentation for the Vanity Theme, a Multipurpose, Arrogant Shopify theme
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template)](https://github.com/MichaelCurrin/docsify-js-template/tags/?include_prereleases&sort=semver)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
