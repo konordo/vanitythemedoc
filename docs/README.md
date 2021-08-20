@@ -31,10 +31,21 @@ See it action! Our demo is available here:
 
 [Vanity Theme Live Demo](https://vanitytheme.myshopify.com)
 
+## How to install Vanity Theme
+
+Since you are using the Shopify platform, instructions on how to install a theme have been covered in the Shopify Official Documents here 
+[Shopify - Adding, previewing, and buying themes](https://help.shopify.com/en/manual/online-store/themes/adding-themes)
+
+The steps are the following:
+* Step 1 - click Online Store and after that, choose Themes.
+* Step 2 - in the Theme library section, click Upload theme to get the Vanity theme uploaded.
+* Step 3 - on the Upload theme window, click browser. Select the vanitytheme.zip file from your computer. 
+* Step 4 - click Upload and wait.
+
 ## Start Customizing Vanity
 
-Since you are using Shopify platform, most of the customization basics has been covered in the Shopify Official Documents here 
-[Shopify Customizing Theme Official Documentation.](https://help.shopify.com/en/manual/online-store/themes/os/customize)
+Since you are using the Shopify platform, most of the customization basics has been covered in the Shopify Official Documents here 
+[Shopify - Customizing Theme Official Documentation.](https://help.shopify.com/en/manual/online-store/themes/os/customize)
 
 As a result, this User Guide will only contain Vanity’s theme customizations and settings.
 
